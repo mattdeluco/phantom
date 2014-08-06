@@ -7,9 +7,27 @@
   "ascent": 850,
   "glyphs": [
     {
+      "uid": "e335adbc2d898c7d85d40c507796e7b4",
+      "css": "mail",
+      "code": 59403,
+      "src": "entypo"
+    },
+    {
+      "uid": "815503841e980c848f55e0271deacead",
+      "css": "link",
+      "code": 59406,
+      "src": "entypo"
+    },
+    {
       "uid": "3e617d8049807e128c80d0344ba09e37",
       "css": "rss",
       "code": 59398,
+      "src": "entypo"
+    },
+    {
+      "uid": "767fede84586366cd7d6c835be745454",
+      "css": "mobile",
+      "code": 59402,
       "src": "entypo"
     },
     {
@@ -46,6 +64,36 @@
       "uid": "818a6c2a76c89800632c0335e9cdafee",
       "css": "gplus-circled",
       "code": 59394,
+      "src": "entypo"
+    },
+    {
+      "uid": "7132e1233bc16cd1b6efe7e29d3613a5",
+      "css": "linkedin",
+      "code": 59399,
+      "src": "entypo"
+    },
+    {
+      "uid": "21adad41ffebf469b2370d26bcb8a3c4",
+      "css": "linkedin-circled",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "28ccaf022b8363aeaa5b86f66e1f5173",
+      "css": "skype",
+      "code": 59404,
+      "src": "entypo"
+    },
+    {
+      "uid": "8354734770d837204e6a004885240d2e",
+      "css": "skype-circled",
+      "code": 59405,
+      "src": "entypo"
+    },
+    {
+      "uid": "8d584f31a5d54de313f1f3da28708ec0",
+      "css": "paypal",
+      "code": 59401,
       "src": "entypo"
     }
   ]
